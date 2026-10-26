@@ -1,0 +1,1 @@
+id,ubicacion,estado EQ01,Aula-1,disponible EQ02,Aula-2,disponible
